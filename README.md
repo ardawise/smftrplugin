@@ -1,0 +1,2 @@
+# smftrplugin
+SMF Türkçe Pluginler
